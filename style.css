@@ -43,6 +43,7 @@ img{
     animation: heartbeat 1.5s ease-in-out infinite both;
     width: 100%;
     text-align: center;
+    margin-bottom: 10px;
 }
 a{
     font-size: 30px;
