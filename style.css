@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.escrito{
+    text-align: center;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.uno{
+    font-size: 80px;
+    margin: 40px 0;
+}
+
+.dos{
+    font-size: 70px;
+    margin: 0 0 50px 0;
+}
+
+img{
+    width: 80%;
+}
+
+.tu{
+    margin: 0 0 40px 0;
+}
+
+.yo{
+    margin: 20px 0;
+}
+.libro{
+    width: 100%;
+    text-align: center;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+    color: #fff;
+}
+.libro p{
+    font-size: 20px;
+    margin: 0 10px;
+}
